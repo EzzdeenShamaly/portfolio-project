@@ -16,3 +16,7 @@ Current release: 1.0
 ## How to view
 
 Open `index.html` in any web browser. No build step is needed.
+
+## Author
+
+Ezzdeen Shamaly
